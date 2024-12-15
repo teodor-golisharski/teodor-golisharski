@@ -3,5 +3,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor-golisharski&layout=compact&langs_count=8&cache_seconds=600" /></a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indieza&" alt="teodor-golisharski" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teodor-golisharski&" alt="teodor-golisharski" />
 </p>
