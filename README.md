@@ -3,6 +3,6 @@
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=teodor-golisharski&layout=compact&langs_count=8&cache_seconds=600" />
   </a>
   <a href="https://github.com/teodor-golisharski/github-readme-streak-stats">
-    <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=teodor-golisharski&cache_seconds=600" alt="teodor-golisharski" />
+    <img height=200 src="https://streak-stats.demolab.com?user=teodor-golisharski" alt="teodor-golisharski" />
   </a>
 </p>
